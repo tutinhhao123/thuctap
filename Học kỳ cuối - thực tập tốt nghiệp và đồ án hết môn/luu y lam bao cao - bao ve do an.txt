@@ -1,0 +1,4 @@
+bảo vệ đề tài:
+Phần các biểu đồ lớp, các chức năng con phải làm chi tiết. Đúng như trong báo cáo để
+đối chiếu phần mềm.
+Các mối quan hệ thực thể phải liên đúng với nhau theo báo cáo.
